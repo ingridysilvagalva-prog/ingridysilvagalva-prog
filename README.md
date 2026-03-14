@@ -1,18 +1,27 @@
-# Olá, eu sou a Ingridy!
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- Contato: ingridysilvagalva@gmail.com
-## Tecnologias que estudo
-<div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div> 
+# Olá! 👋
+
+Meu nome é Ingridy.
+
+Sou estudante de Desenvolvimento de Sistemas e estou aprendendo programação.
+
+💻 Atualmente estou estudando:
+- Python
+- HTML
+- CSS
+
+🚀 Estou usando o GitHub para guardar meus projetos e acompanhar meu aprendizado.
+
+---
+
+## Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+---
+
+## Contato
+
+![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
