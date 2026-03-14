@@ -1,34 +1,23 @@
-# 👋 Olá, eu sou a Ingridy Silva Galvão!
+# Olá 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas  
-💻 Focada em Python, HTML e CSS  
-🚀 Preparando-me para o mercado de tecnologia  
+Olá, muito prazer! Meu nome é Ingridy Silva Galvão.
 
-📫 Contato: ingridysilvagalva@gmail.com
+Sou estudante de Desenvolvimento de Sistemas, estou aprendendo programação e desenvolvimento web. Atualmente estou estudando Python, HTML, CSS, Java e C# e pretendo aprimorar minhas habilidades como desenvolvedora.
+
+📚 Tecnologias que estou estudando:
+
+<p>
+<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</p>
+
+---
+
+📫 Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridy-silva-galvão-00b55a3a9)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridysilvagalva@gmail.com)
-
----
-
-## 🚀 Tecnologias que estudo
-
-<div>
-
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-
-</div>
